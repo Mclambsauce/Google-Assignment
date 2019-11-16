@@ -5,10 +5,12 @@
 <body> 
 <p>
   <span style='color: blue'>G</span>
-  <span style='color: red'>O</span>
-  <span style='color: yellow'>O</span>
-  <span style='color: blue'>G</span>
-  <span style='color: green'>L</span>
+    <span style='color: red'>O</span>
+     <span style='color: yellow'>O</span>
+    <span style='color: blue'>G</span>
+   <span style='color: green'>L</span>
   <span style='color: red'>E</span>
 </p>
+<input id="searchbar" type="text" name="search" placeholder="Look On Google">
 </body>
+ 
